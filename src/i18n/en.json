@@ -1,0 +1,8 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "educationTraining": "Education Training",
+    "myProfile": "My Profile",
+    "languages": "Languages"
+  }
+}

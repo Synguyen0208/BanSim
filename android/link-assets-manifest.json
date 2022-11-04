@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Fonts/Muli-Bold.ttf",
+      "sha1": "4199ef265c74f6e9b49f48111c7fdf0fdd865218"
+    },
+    {
+      "path": "src/assets/Fonts/Muli-Light.ttf",
+      "sha1": "c3dda48e7b52414e32b8d58b1bd82372d5d5190a"
+    },
+    {
+      "path": "src/assets/Fonts/Muli-Medium.ttf",
+      "sha1": "7d287730c2d34b6be0a5797977fea6aa55c7bcbf"
+    },
+    {
+      "path": "src/assets/Fonts/Muli-Regular.ttf",
+      "sha1": "a54204227869dddd94662a143e6bdf401f45d4fa"
+    },
+    {
+      "path": "src/assets/Fonts/Muli-SemiBold.ttf",
+      "sha1": "508d7f2bc75fa72f398d9c1fa47b858e472b606a"
+    },
+    {
+      "path": "src/assets/Fonts/styles.css",
+      "sha1": "5a64ee55dc61b299cc389c1c9e1ae65aa414bf13"
+    }
+  ]
+}
